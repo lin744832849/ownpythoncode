@@ -1,2 +1,2 @@
-# ownpythoncode
+# mypythoncode
 练习
